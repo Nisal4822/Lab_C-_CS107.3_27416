@@ -1,8 +1,0 @@
-C:\Users\Nisal\Desktop\Visual Studio Projects\labday3\labday3\obj\Debug\labday3.csproj.AssemblyReference.cache
-C:\Users\Nisal\Desktop\Visual Studio Projects\labday3\labday3\obj\Debug\labday3.csproj.SuggestedBindingRedirects.cache
-C:\Users\Nisal\Desktop\Visual Studio Projects\labday3\labday3\obj\Debug\labday3.csproj.CoreCompileInputs.cache
-C:\Users\Nisal\Desktop\Visual Studio Projects\labday3\labday3\bin\Debug\labday3.exe.config
-C:\Users\Nisal\Desktop\Visual Studio Projects\labday3\labday3\bin\Debug\labday3.exe
-C:\Users\Nisal\Desktop\Visual Studio Projects\labday3\labday3\bin\Debug\labday3.pdb
-C:\Users\Nisal\Desktop\Visual Studio Projects\labday3\labday3\obj\Debug\labday3.exe
-C:\Users\Nisal\Desktop\Visual Studio Projects\labday3\labday3\obj\Debug\labday3.pdb
